@@ -1,18 +1,11 @@
-### Hi there 👋
-
-<!--
-**misaellandero/misaellandero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <h1 align="center">Hello There 👋🏼, I'm Misael Landero</h1>
-<h3 align="center">A passionate ❤️ SwiftUI  developer from México 🌮</h3>
+<h3 align="center">A passionate SwiftUI  developer from México</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=misaellandero" alt="misaellandero" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/misaellandero" target="blank"><img src="https://img.shields.io/twitter/follow/misaellandero?logo=twitter&style=for-the-badge" alt="misaellandero" /></a> </p>
 
-- 🔭 I’m currently working on [SwiftUI and Swift projects like](https://github.com/misaellandero/debtMe)
+- 🔭 I’m currently working on [SwiftUI and Swift projects like DebutMe 💰](https://github.com/misaellandero/debtMe)
 
 - 🌱 I’m currently learning **Objective-C and UIKit**
 
@@ -26,7 +19,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **hola@misaellandero.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/francisco-misael-landero-ychante-07b6a9122/](https://www.linkedin.com/in/francisco-misael-landero-ychante-07b6a9122/)
+- 📄 Know about my experiences [👨🏻‍💻](https://www.linkedin.com/in/francisco-misael-landero-ychante-07b6a9122/)
+
+- 📸 Follow my adventures [on Instagram](https://www.instagram.com/misaellanderos/)
 
 - ⚡ Fun fact **🐙 have ❤️❤️❤️ and 🔵 🩸**
 
