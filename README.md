@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Swift](https://github.com/apple/swift)
 
-- 👨‍💻 All of my projects are available at [misaellandero.com](misaellandero.com)
+- 👨‍💻 All of my projects are available at [misaellandero.com](https://landercorp.mx)
 
 - 📝 I regularly write articles on [misaellandero.com/blog](http://blog.landercorp.mx)
 
