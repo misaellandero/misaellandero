@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [misaellandero.com](misaellandero.com)
 
-- 📝 I regularly write articles on [misaellandero.com/blog](misaellandero.com/blog)
+- 📝 I regularly write articles on [http://blog.landercorp.mx](misaellandero.com/blog)
 
 - 💬 Ask me about **SwiftUI and macOS**
 
